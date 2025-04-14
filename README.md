@@ -2,6 +2,7 @@
 
 Stable Diffusion WebUI Forge is a platform on top of [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (based on [Gradio](https://www.gradio.app/) <a href='https://github.com/gradio-app/gradio'><img src='https://img.shields.io/github/stars/gradio-app/gradio'></a>) to make development easier, optimize resource management, speed up inference, and study experimental features.
 
+<<<<<<< Updated upstream
 The name "Forge" is inspired from "Minecraft Forge". This project is aimed at becoming SD WebUI's Forge.
 
 Forge is currently based on SD-WebUI 1.10.1 at [this commit](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/82a973c04367123ae98bd9abdf80d9eda9b910e2). (Because original SD-WebUI is almost static now, Forge will sync with original WebUI every 90 days, or when important fixes.)
@@ -211,3 +212,7 @@ See also [Forge's Unet Implementation](https://github.com/lllyasviel/stable-diff
 # Under Construction
 
 WebUI Forge is now under some constructions, and docs / UI / functionality may change with updates.
+=======
+
+
+>>>>>>> Stashed changes
